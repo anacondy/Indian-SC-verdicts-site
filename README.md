@@ -2,6 +2,8 @@
 
 This project is a single-page web application that presents a detailed overview of the Indian Supreme Court's landmark verdict on the Electoral Bonds case. It is designed to be clean, modern, and easy to read, with a focus on presenting legal information in a structured and accessible format.
 
+**Live Site:** [https://anacondy.github.io/Indian-SC-verdicts-site/](https://anacondy.github.io/Indian-SC-verdicts-site/)
+
 ## Features
 
 - **Responsive Design**: The layout is optimized for both desktop and mobile viewing.
@@ -16,13 +18,19 @@ This project is a single-page web application that presents a detailed overview 
 Here are some screenshots of the page in action:
 
 ### Arguments Section
-![Arguments Section](image1)
+![Arguments Section](https://github.com/user-attachments/assets/63e5d6a3-4bbc-4c4a-a868-ab5b06a16bb9)
 
 ### Case Progression Timeline
-![Case Progression Timeline](image2)
+![Case Progression Timeline](https://github.com/user-attachments/assets/63e5d6a3-4bbc-4c4a-a868-ab5b06a16bb9)
 
 ## How to Use
 
+### View Online
+Visit the live site at: [https://anacondy.github.io/Indian-SC-verdicts-site/](https://anacondy.github.io/Indian-SC-verdicts-site/)
+
+*(Note: GitHub Pages must be enabled in repository settings for the live site to work. Once this PR is merged to the main branch, the GitHub Actions workflow will automatically deploy the site.)*
+
+### Run Locally
 1.  **Download the files**: Save the `index.html` file to your local machine.
 2.  **Open in a browser**: Open the `index.html` file in any modern web browser like Chrome, Firefox, or Safari.
 
@@ -40,3 +48,9 @@ You can easily customize the content and styling:
 - **Styling**: The CSS is located within the `<style>` tags in the `<head>` of the `index.html` file. You can change colors, fonts, and layout by modifying the CSS variables and rules.
     - **Colors**: Theming is controlled by CSS variables at the top of the style block. You can change the `--bg-color`, `--text-color`, `--link-color`, etc., for both light and dark modes.
     - **Fonts**: The page uses the 'Inter' font from Google Fonts. You can change this by updating the `<link>` in the `<head>` and modifying the `font-family` property in the `body` style.
+
+## Authors
+
+This project was created by:
+- **Puppy pilot** - Created with assistance from [GitHub Copilot](https://github.com/features/copilot)
+- **anacondy** - [GitHub Profile](https://github.com/anacondy)
