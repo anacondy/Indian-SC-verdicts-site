@@ -25,6 +25,12 @@ Here are some screenshots of the page in action:
 
 ## How to Use
 
+### View Online
+Visit the live site at: [https://anacondy.github.io/Indian-SC-verdicts-site/](https://anacondy.github.io/Indian-SC-verdicts-site/)
+
+*(Note: GitHub Pages must be enabled in repository settings for the live site to work. Once this PR is merged to the main branch, the GitHub Actions workflow will automatically deploy the site.)*
+
+### Run Locally
 1.  **Download the files**: Save the `index.html` file to your local machine.
 2.  **Open in a browser**: Open the `index.html` file in any modern web browser like Chrome, Firefox, or Safari.
 
