@@ -52,5 +52,5 @@ You can easily customize the content and styling:
 ## Authors
 
 This project was created by:
-- **Puppy pilot** ([@copilot](https://github.com/features/copilot))
-- **anacondy** ([GitHub Profile](https://github.com/anacondy))
+- **Puppy pilot** - Created with assistance from [GitHub Copilot](https://github.com/features/copilot)
+- **anacondy** - [GitHub Profile](https://github.com/anacondy)
