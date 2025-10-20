@@ -17,7 +17,7 @@ This project is a single-page web application that presents a detailed overview 
 
 Here are some screenshots of the page in action:
 
-### Full Page View
+### Full Page View (Light Mode)
 ![Full Page View - Electoral Bond Case Website](https://github.com/user-attachments/assets/3d977fd3-db55-4d29-b510-e51c1dce31d1)
 
 This screenshot showcases the complete working site with all key sections including:
@@ -28,6 +28,11 @@ This screenshot showcases the complete working site with all key sections includ
 - Arguments from both petitioner and respondent
 - Court's analysis and final verdict
 - Light/Dark mode toggle functionality
+
+### Full Page View (Dark Mode)
+![Dark Mode View - Electoral Bond Case Website](https://github.com/user-attachments/assets/bb5e4b12-b2fc-4a6e-bfaf-d823a386008a)
+
+The website features a fully functional dark mode that automatically adapts based on user preferences, with a manual toggle for easy switching between themes.
 
 ## How to Use
 
