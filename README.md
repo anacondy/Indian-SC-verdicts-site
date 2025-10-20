@@ -17,11 +17,22 @@ This project is a single-page web application that presents a detailed overview 
 
 Here are some screenshots of the page in action:
 
-### Arguments Section
-![Arguments Section](https://github.com/user-attachments/assets/63e5d6a3-4bbc-4c4a-a868-ab5b06a16bb9)
+### Full Page View (Light Mode)
+![Full Page View - Electoral Bond Case Website](https://github.com/user-attachments/assets/3d977fd3-db55-4d29-b510-e51c1dce31d1)
 
-### Case Progression Timeline
-![Case Progression Timeline](https://github.com/user-attachments/assets/63e5d6a3-4bbc-4c4a-a868-ab5b06a16bb9)
+This screenshot showcases the complete working site with all key sections including:
+- Responsive header with case title and metadata
+- Justice panel showing the 5-judge Constitution Bench
+- Unanimous decision highlight
+- Detailed case information and timeline
+- Arguments from both petitioner and respondent
+- Court's analysis and final verdict
+- Light/Dark mode toggle functionality
+
+### Full Page View (Dark Mode)
+![Dark Mode View - Electoral Bond Case Website](https://github.com/user-attachments/assets/bb5e4b12-b2fc-4a6e-bfaf-d823a386008a)
+
+The website features a fully functional dark mode that automatically adapts based on user preferences, with a manual toggle for easy switching between themes.
 
 ## How to Use
 
@@ -39,6 +50,17 @@ That's it! The page is self-contained and ready to run without any additional se
 ## File Structure
 
 - `index.html`: The main file containing all the HTML structure, CSS styles, and JavaScript functionality.
+
+## Security Features
+
+This website implements several security best practices to protect users:
+
+- **Content Security Policy (CSP)**: Restricts the sources from which content can be loaded, preventing XSS attacks.
+- **X-Content-Type-Options**: Prevents MIME type sniffing, ensuring files are interpreted correctly.
+- **X-Frame-Options**: Protects against clickjacking attacks by preventing the site from being embedded in iframes.
+- **Referrer Policy**: Controls how much referrer information is shared when navigating away from the site.
+- **Secure External Resources**: External fonts are loaded with proper CORS attributes for security.
+- **No Inline Event Handlers**: All JavaScript event handling is done through addEventListener for better security and maintainability.
 
 ## Customization
 
