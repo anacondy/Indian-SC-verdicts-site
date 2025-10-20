@@ -1,0 +1,29 @@
+# Build artifacts
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Screenshots (for testing only)
+screenshots/
