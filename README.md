@@ -51,4 +51,4 @@ You can easily customize the content and styling:
 
 ## "Every civilization finds it necessary to negotiate compromises with its own values."
 
-Created with dedication by **Puppy pilot (@copilot)** & **[anacondy](https://github.com/anacondy) with ❤️**
+Created with dedication by **Puppy pilot (@copilot)** & **[anacondy](https://github.com/anacondy)** with ❤️
