@@ -49,8 +49,6 @@ You can easily customize the content and styling:
     - **Colors**: Theming is controlled by CSS variables at the top of the style block. You can change the `--bg-color`, `--text-color`, `--link-color`, etc., for both light and dark modes.
     - **Fonts**: The page uses the 'Inter' font from Google Fonts. You can change this by updating the `<link>` in the `<head>` and modifying the `font-family` property in the `body` style.
 
-## Authors
+## "Every civilization finds it necessary to negotiate compromises with its own values."
 
-This project was created by:
-- **Puppy pilot** - Created with assistance from [GitHub Copilot](https://github.com/features/copilot)
-- **anacondy** - [GitHub Profile](https://github.com/anacondy)
+Created with dedication by **Puppy pilot (@copilot)** & **[anacondy](https://github.com/anacondy) with ❤️**
