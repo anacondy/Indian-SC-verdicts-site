@@ -1,5 +1,5 @@
 # Supreme Court Verdict Page: Electoral Bonds Case
-
+ ###Added legislation file
 This project is a single-page web application that presents a detailed overview of the Indian Supreme Court's landmark verdict on the Electoral Bonds case. It is designed to be clean, modern, and easy to read, with a focus on presenting legal information in a structured and accessible format.
 
 **Live Site:** [https://anacondy.github.io/Indian-SC-verdicts-site/](https://anacondy.github.io/Indian-SC-verdicts-site/)
